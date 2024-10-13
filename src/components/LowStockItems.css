@@ -1,0 +1,32 @@
+.low-stock-items {
+    padding: 20px;
+    background-color: #0a780a;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .low-stock-items h2 {
+    margin-bottom: 20px;
+  }
+  
+  .low-stock-items table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .low-stock-items th,
+  .low-stock-items td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .low-stock-items th {
+    background-color: #067628;
+    color: white;
+  }
+  
+  .low-stock-items tr:hover {
+    background-color: #f1f1f1;
+  }
+  
